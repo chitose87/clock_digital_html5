@@ -1,0 +1,14 @@
+{
+  "name": "ponmodule",
+  "homepage": "https://github.com/chitose87/PonModule_ts",
+  "_release": "e89a3fc3c9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e89a3fc3c9f47a6de76624de022df3246d0a23e0"
+  },
+  "_source": "https://github.com/chitose87/PonModule_ts.git",
+  "_target": "*",
+  "_originalSource": "ponmodule",
+  "_direct": true
+}

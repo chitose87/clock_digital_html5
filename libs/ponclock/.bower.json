@@ -1,0 +1,14 @@
+{
+  "name": "ponclock",
+  "homepage": "https://github.com/chitose87/Clock_ts",
+  "_release": "ad5d3b6bc6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ad5d3b6bc6505d8598b9429a4ec6c2eca5416039"
+  },
+  "_source": "https://github.com/chitose87/Clock_ts.git",
+  "_target": "*",
+  "_originalSource": "ponclock",
+  "_direct": true
+}

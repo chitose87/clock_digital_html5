@@ -1,0 +1,27 @@
+extends ../_common
+block meta
+    -
+        var $meta={
+        path:"../",
+        dir:"./digital/",
+        title:"",
+        description:"",
+        keyword:""
+        }
+
+block head_entry
+    script.
+        var require = {
+            paths: {
+                jquery: [
+                    "https://code.jquery.com/jquery-2.2.4.min",
+                    , "../../res/jquery.min"
+                ]
+            }
+        };
+    script(data-main="res/Digital.js" src='../res/require.js')
+    link(type="text/css" rel="stylesheet" href="./res/index.css")
+
+block body_entry
+
+block body_end

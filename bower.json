@@ -1,0 +1,17 @@
+{
+  "name": "digital",
+  "homepage": "https://github.com/chitose87/clock_digital_html5",
+  "authors": [
+    "pon87 <chitose87@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

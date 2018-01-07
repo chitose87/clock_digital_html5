@@ -1,0 +1,15 @@
+{
+  "name": "asevent",
+  "homepage": "https://github.com/chitose87/AsEvent",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "abb2505b200438647cb3d0d9eca0dbe88932ff95"
+  },
+  "_source": "https://github.com/chitose87/AsEvent.git",
+  "_target": "^0.0.1",
+  "_originalSource": "asevent",
+  "_direct": true
+}
